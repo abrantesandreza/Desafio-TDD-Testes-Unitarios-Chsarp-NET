@@ -1,6 +1,6 @@
 # Desafio TDD Testes Unitarios C# | .NET
 
-Este repositório contém desafios práticos e exemplos de código para aprimorar suas habilidades em Test-Driven Development (TDD) e testes unitários em C# .NET. Explore os desafios, aprenda a escrever testes eficazes e a implementar funcionalidades com confiança. Contribuições são bem-vindas!
+Neste repositório, você encontrará um desafio prático envolvendo Testes Unitários e TDD (Test-Driven Development) em C# (.NET). O objetivo principal é demonstrar habilidades sólidas em desenvolvimento orientado a testes e práticas de codificação eficientes em C#.
 
 ## Recursos:
 
